@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-apache-hadoop-big-data-mapr-hadoop-distributed-fil-1713917426602-removebg-preview.png" alt="PySpark Cover" width="18%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-apache-hadoop-big-data-mapr-hadoop-distributed-fil-1713917426602-removebg-preview.png" alt="PySpark Cover" width="25%" />
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-5a997e59bd6be0.gif" alt="PySpark Cover" width="45%" />
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/aa82svrmu-removebg-preview.png" alt="PySpark Cover" width="35%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/kisspng-apache-hive-apache-hadoop-big-data-apache-spark-ap-5af468a55d5157.5635831115259670133822-removebg-preview.png" alt="PySpark Cover" width="25%" />
 </p> 
 
----
 
-Here’s the updated version tailored for **Hadoop**, **Sqoop**, and **Hive**:
-
----
 
 # Hadoop, Sqoop, and Hive Overview - A Comprehensive Guide by Shubhayu Mallick
 
