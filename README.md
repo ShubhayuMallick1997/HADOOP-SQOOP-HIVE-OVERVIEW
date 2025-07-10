@@ -169,5 +169,3 @@ This repository is open-source and available under the **MIT License**.
 Happy Learning, and let’s explore the world of **Hadoop**, **Sqoop**, and **Hive** together! 🚀
 
 ---
-
-This README mirrors the professional tone and structure from the SQL overview, while focusing on the big data technologies Hadoop, Sqoop, and Hive. It's both informative and easy to follow, encouraging users to dive into hands-on learning.
